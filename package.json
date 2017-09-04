@@ -1,0 +1,19 @@
+{
+  "name": "zipkin-example",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Greene<hightimesteddy@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kevinbgreene/zipkin-example.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "zipkin": "^0.7.3"
+  }
+}
