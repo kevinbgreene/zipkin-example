@@ -14,6 +14,11 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.15.4",
-    "zipkin": "^0.7.3"
+    "node-fetch": "^1.7.2",
+    "zipkin": "^0.7.3",
+    "zipkin-context-cls": "^0.6.1",
+    "zipkin-instrumentation-express": "^0.7.3",
+    "zipkin-instrumentation-fetch": "^0.7.3",
+    "zipkin-transport-http": "^0.7.3"
   }
 }
